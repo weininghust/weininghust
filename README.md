@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning in HUST
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : fb.com/duyninhhust
+- 📫 How to reach me : (https://www.facebook.com/ninhnd.hust/)
 
 <!---
 weininghust/weininghust is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
